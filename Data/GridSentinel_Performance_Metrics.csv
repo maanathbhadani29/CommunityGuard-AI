@@ -1,0 +1,5 @@
+Attack_Vector,Target_Building,Forensics_Latency_sec,Forensics_Tokens,Defense_Latency_sec,Defense_Tokens,Total_LLM_Latency_sec,Total_LLM_Tokens,Pre_Defense_Impact_kW,Post_Defense_Impact_kW,Verification_Status
+MARKET_HACK,0,10.143,245,5.291,226,15.434,471,0.31,0.2,VERIFIED SAFE
+METER_HACK,2,4.058,206,5.648,235,9.706,441,0.26,0.2,VERIFIED SAFE
+INVERTER_HACK,6,4.236,210,4.318,207,8.554,417,0.29,0.2,VERIFIED SAFE
+TIME_SPOOFING,0,4.182,209,4.966,222,9.148,431,0.32,0.2,VERIFIED SAFE
